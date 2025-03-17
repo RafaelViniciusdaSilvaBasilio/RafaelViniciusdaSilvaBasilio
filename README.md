@@ -54,4 +54,3 @@ Banco de Dados: MySQL e PostgreSQL
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelViniciusdaSilvaBasilio&show_icons=true&theme=dracula)
           
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelViniciusdaSilvaBasilio&show_icons=true&theme=dracula)
