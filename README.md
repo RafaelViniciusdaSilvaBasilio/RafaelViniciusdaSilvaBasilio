@@ -13,6 +13,9 @@ Sistemas Embarcados: C++ (Arduino IDE)
 Banco de Dados: MySQL e PostgreSQL
  
  Sou uma pessoa analítica e proativa, sempre buscando aprender e me aprofundar em novas tecnologias.
+ 
+ Sou uma pessoa analítica e proativa, sempre buscando aprender e me aprofundar em novas tecnologias.
+  Possuo a certificação: AWS Certified Cloud Practitioner : https://www.credly.com/badges/7c984e03-6916-409b-a545-35e314935a35/linked_in_profile
 
  ## Linguagens de Programação
 
