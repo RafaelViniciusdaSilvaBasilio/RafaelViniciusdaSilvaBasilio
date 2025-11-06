@@ -1,5 +1,5 @@
 
-Estudante de Engenharia da Computação | 7º semestre na Faculdade Impacta. Apaixonado por tecnologia e inovação, tenho experiência acadêmica e prática em desenvolvimento de software, análise de dados e sistemas embarcados.
+Estudante de Engenharia da Computação | 8º semestre na Faculdade Impacta. Apaixonado por tecnologia e inovação, tenho experiência acadêmica e prática em desenvolvimento de software, análise de dados e sistemas embarcados.
 
 Possuo conhecimentos em:
 Análise de Dados & Automação: Python (Pandas, Matplotlib, NumPy), Excel
