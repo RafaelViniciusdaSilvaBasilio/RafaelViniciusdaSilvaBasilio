@@ -57,7 +57,8 @@ Banco de Dados: MySQL e PostgreSQL
 
 ## Estatística   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelViniciusdaSilvaBasilio)
+<img src="https://github-readme-stats.vercel.app/api?username=RafaelViniciusdaSilvaBasilio" />
+
 
 
 
